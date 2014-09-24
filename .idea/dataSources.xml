@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="105692177">
+    <data-source source="LOCAL" name="Rails blog: development" uuid="e7a2982c-84c6-4308-9c83-1bbd72a035c6">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
